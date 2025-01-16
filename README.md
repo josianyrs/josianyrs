@@ -1,9 +1,9 @@
 ### Hi there, I'm Josiany Rodrigues da Silva ✌️
 
-- 📚 Studying programming through the #TeuFuturo 2022 project
-- 💻 I'm currently learning javascript
-- 😄 Pronouns: She/Her
-- ⚡ Curiosity: I like anime, games and solving the Rubik's Cube
+- 📚 Studying Systems Analysis and Development
+- 💻 Currently learning JavaScript and exploring web development
+- 🔍 Keen on building foundational skills in programming and problem-solving
+- ⚡ Curiosity: I enjoy anime, games, and solving the Rubik's Cube, which fuels my creativity and logical thinking.
 
 ##
 
